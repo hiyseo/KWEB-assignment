@@ -1,0 +1,29 @@
+@media (max-width: 600px){
+    body{
+        background-color: skyblue;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 1200px){
+    body{
+        background-color: blue;
+    }
+}
+
+@media (min-width: 1201px){
+    body{
+        background-color: darkblue;
+    }
+}
+
+@media (max-width: 900px){
+    h1{
+        background-color: white;
+    }
+}
+
+@media (min-width: 901px){
+    h1{
+        background-color: yellow;
+    }
+}
